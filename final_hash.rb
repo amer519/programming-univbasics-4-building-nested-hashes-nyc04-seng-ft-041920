@@ -1,12 +1,5 @@
 
 
-bash_hash = {
-  :railroads =>
-  {
-    
-  }
-}
-
 
 
 
